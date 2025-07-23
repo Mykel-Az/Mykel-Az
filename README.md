@@ -11,8 +11,7 @@ I'm a Software Engineer who currently open to Frontend, Backend, QA, Fullstack R
 - 🌱 Some of the languages and tools i use are: JavaScript, Nodejs, React, Typescript, Django, Fastapi and Python.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Backend Engineer, or Fullstack Engineer QA.
-- 📫 You can [view my resume](https://docs.google.com/document/d/1PGBwPnyWuggefOWAypqsSBpbThAQ2PMvko92uo3bhfM/edit?tab=t.0) and contact me by emailing [azeezadekanmbimichael@gmail.com](azeezadekanmbimichael@gmail.com).
-
+- 📫 You can [view my resume](https://docs.google.com/document/d/1PGBwPnyWuggefOWAypqsSBpbThAQ2PMvko92uo3bhfM/edit?tab=t.0) or send me an email azeezadekanmbimichael@gmail.com
 ---
 
 
