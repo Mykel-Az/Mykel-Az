@@ -1,17 +1,17 @@
-# Hi, I'm Michael Azeez Adekanbim 👋🏾
+# Michael Azeez Adekanmbi 👋🏾
 
 **Software Engineer** · Backend · Fullstack · QA
 
-I build reliable, scalable software with a focus on backend systems and web engineering. Currently open to **Backend**, **Fullstack**, and **QA** roles where I can contribute meaningfully and keep growing.
+I build reliable, scalable software with a focus on backend systems and web engineering.
 
 ---
 
 ## About Me
 
-- 🎓 Graduate of **AltSchool Africa — School of Software Engineering**, Class of 2022
-- 🔧 I enjoy turning complex requirements into clean, maintainable code
-- 🌍 Based in Nigeria, open to remote and global opportunities
-- 📫 Reach me at **azeezadekanmbimichael@gmail.com**
+- 🎓 **AltSchool Africa — School of Software Engineering**, Class of 2022
+- 🔧 I care about writing clean, maintainable code that actually ships
+- 🌍 Based in Nigeria · Open to remote and global opportunities
+- 📫 **azeezadekanmbimichael@gmail.com**
 
 ---
 
@@ -35,24 +35,21 @@ I build reliable, scalable software with a focus on backend systems and web engi
 
 ---
 
-## What I'm Looking For
+## What I Bring to a Team
 
-I'm actively seeking **entry-level to mid-level** opportunities as a:
-
-- Backend Engineer
-- Fullstack Engineer
-- QA Engineer
-
-I'm also interested in **open source contributions**, **hackathons**, and **internships** that push me to grow and collaborate with great teams.
+- Ship features end-to-end — from API design to frontend integration
+- Comfortable owning backend services, writing tests, and reviewing PRs
+- Entrepreneurial mindset: I think about the product, not just the ticket
+- Strong documentation habits — I leave codebases better than I find them
 
 ---
 
 ## Let's Connect
 
-[![Portfolio](https://img.shields.io/badge/GitHub%20Portfolio-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Mykel-Az)
-[![Resume](https://img.shields.io/badge/View%20Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1PGBwPnyWuggefOWAypqsSBpbThAQ2PMvko92uo3bhfM/edit?tab=t.0)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white)](https://michaelazeez-adekanmbi.vercel.app)
+[![Resume](https://img.shields.io/badge/Resume-4285F4?style=flat-square&logo=googledocs&logoColor=white)](https://docs.google.com/document/d/1PGBwPnyWuggefOWAypqsSBpbThAQ2PMvko92uo3bhfM/edit?tab=t.0)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:azeezadekanmbimichael@gmail.com)
 
 ---
 
-*Open to opportunities · Available for freelance · He/Him*
+*He/Him · Available for contract & full-time roles*
